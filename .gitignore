@@ -9,7 +9,5 @@ Thumbs.db
 !.env.example
 .tools/
 dependency-reduced-pom.xml
-
-README.md
-SECURITY.md
+ARTICAL.md
 
